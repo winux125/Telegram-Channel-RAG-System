@@ -1,6 +1,6 @@
-# Durov RAG System
+# Telegramc Channel RAG System
 
-This project is a Retrieval-Augmented Generation (RAG) application that allows you to semantically search and interact with messages from Pavel Durov's Telegram channel. 
+This project is a Retrieval-Augmented Generation (RAG) application that allows you to semantically search and interact with messages from  Telegram channels. 
 
 It uses **Qdrant** as the vector database, **SentenceTransformers** (`BAAI/bge-m3`) for local message embeddings, and an OpenAI-compatible API to generate in-context answers based on the retrieved Telegram posts.
 
